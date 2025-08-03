@@ -17,7 +17,7 @@
   Currently contributing to real-world cybersecurity projects & improving resilience through Red/Blue Teaming methodologies.
 </p>
 
-<p align="center"> 
+<p align="center"> Engineering
   <img src="https://komarev.com/ghpvc/?username=yatishbharambe&label=Profile%20Views&color=0e75b6&style=flat" alt="yatishbharambe" /> 
 </p>
 
