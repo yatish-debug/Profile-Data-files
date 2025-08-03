@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <strong>🔐 Cybersecurity Researcher | 🛡️ Ethical Programmer | 🎓 Final-Year Engineering Student</strong><br>
+  <strong>🔐 Cybersecurity Researcher | 🛡️ Ethical Programmer | 🎓 First-Year Engineering Student</strong><br>
   Passionate about securing the digital frontier. I specialize in <strong>Network Security, Web Pentesting, Malware Analysis, DSA, and OSINT</strong>.  
   Currently contributing to real-world cybersecurity projects & improving resilience through Red/Blue Teaming methodologies.
 </p>
