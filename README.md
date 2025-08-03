@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=450&lines=Cybersecurity+Engineer+%7C+Ethical+Hacker;DSA+Lover+%7C+C%2B%2B+%7C+Java+Ninja;Cyber+Forensics+%7C+Network+Defense;Bug+Bounty+%7C+Malware+Analysis;Always+Learning+%7C+Always+Defending+%F0%9F%95%B6%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=450&lines= Cybersecurity+Engineer+%7C+Ethical+Hacker;DSA+Lover+%7C+C%2B%2B+%7C+Java+Ninja;Cyber+Forensics+%7C+Network+Defense;Bug+Bounty+%7C+Malware+Analysis;Always+Learning+%7C+Always+Defending+%F0%9F%95%B6%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -127,10 +127,10 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yatishbharambe&show_icons=true&theme=radical" width="400"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatishbharambe&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yatish-debug &show_icons=true&theme=radical" width="400"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatish-debug &theme=radical" width="400"/>
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yatishbharambe&theme=redical" width="800"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yatish-debug &theme=redical" width="800"/>
 </div>
 
 ---
