@@ -129,8 +129,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yatish-debug&show_icons=true&theme=radical" width="400"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatish-debug&theme=radical" width="400"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yatish-debug&theme=radical" width="800"/>
-<br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yatish-debug&theme=radical" width="800"/>
+</div>
   ---
 
 ### ⚡ *"Hack to Learn, but Never Hack to Harm."*  
